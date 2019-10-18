@@ -40,3 +40,5 @@ https://developer.apple.com/documentation/
   - and more...
 
 **I hope you enjoy HackUMass and feel free to contact me if you have any questions!**
+
+**email: sdubois@umass.edu**
