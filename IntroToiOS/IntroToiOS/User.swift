@@ -20,6 +20,7 @@ struct User {
 
 let users: [User] = [
 
-    User(username: "sdubois18", password: "password", name: "Sam DuBois", major: "Computer Science", year: "Sophomore")
+    User(username: "sdubois18", password: "password", name: "Sam DuBois", major: "Computer Science", year: "Sophomore"),
+    User(username: "pizza456", password: "pizza", name: "Bob Hello", major: "Computer Engineering", year: "Sophomore")
 
 ]
